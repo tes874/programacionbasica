@@ -3,92 +3,51 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Õndice
-CÛdigos 
-# øQuÈ es python?
+√çndice
+C√≥digos 
+# ¬øQu√© es python?
 # Hola mundo ------------------------ ----------------------------------------------------------1
-# ¡rea de la habitaciÛn ------------- ---------------------------------------------------------2
-# ¡rea de la cancha en acres --------------------------------------------------------------3
+# √Årea de la habitaci√≥n ------------- ---------------------------------------------------------2
+# √Årea de la cancha en acres --------------------------------------------------------------3
 # precio de botellas ---------------------------------------------------------------------------4
-# ConversiÛn de unidades mexicanas ---------------------------------------------------5
-# DirecciÛn-------------------------------------------------------------------------------------- 6
-# N˙meros enteros ----------------------------------------------------------------------------7
+# Conversi√≥n de unidades mexicanas ---------------------------------------------------5
+# Direcci√≥n-------------------------------------------------------------------------------------- 6
+# N√∫meros enteros ----------------------------------------------------------------------------7
 # Restaurante -----------------------------------------------------------------------------------8
-# Despliegue de n˙meros enteros ---------------------------------------------------------9
+# Despliegue de n√∫meros enteros ---------------------------------------------------------9
 # widgates----------------------------------------------------------------------------------------10
 # Gasolina ----------------------------------------------------------------------------------------11
 # ahorro -------------------------------------------------------------------------------------------12
-# Resultado de dÌas ----------------------------------------------------------------------------13
+# Resultado de d√≠as ----------------------------------------------------------------------------13
 # Edad humana a edad perros---------------------------------------------------------------14
 # Numero par e impar --------------------------------------------------------------------------15
 # import time --------------------------------------------------------------------------------------16
 # import math ----------------------------------------------------------------------------------------
-# ø QuÈ es ? ------------------------------------------------------------------------------------------
-# Latitud de la tierra en kilÛmetros------------------------------------------------------------17
+# ¬ø Qu√© es ? ------------------------------------------------------------------------------------------
+# Latitud de la tierra en kil√≥metros------------------------------------------------------------17
 # Radio de la esfera------------------------------------------------------------------------------18
 
 
 
 
-#  PosiciÛn de cuadro de ajedrez----------------------------------------------------19 
+#  Posici√≥n de cuadro de ajedrez----------------------------------------------------19 
 # Estatura-----------------------------------------------------------------------------------20
 # Metros equivalentes -------------------------------------------------------------------21
-# ¡rea del triangulo  ----------------------------------------------------------------------22
+# √Årea del triangulo  ----------------------------------------------------------------------22
 # Distancia recorrida----------------------------------------------------------------------23
 # Descuento---------------------------------------------------------------------------------24
 #  Suma---------------------------------------------------------------------------------------25
 # Grafica--------------------------------------------------------------------------------------26
 # password-----------------------------------------------------------------------------------27
-# C·lculo del Ìndice de masa corporal ------------------------------------------------28
+# C√°lculo del √≠ndice de masa corporal ------------------------------------------------28
 # signo zodiacal------------------------------------------------------------------------------29
 # Grados-----------------------------------------------------------------------------------------30
-# Ejercicios librerÌa class---------------------------------------------------------------------
-# MaÒanitas ------------------------------------------------------------------------------------31
+# Ejercicios librer√≠a class---------------------------------------------------------------------
+# Ma√±anitas ------------------------------------------------------------------------------------31
 # Gasolina --------------------------------------------------------------------------------------32
-# ¡ngulos-----------------------------------------------------------------------------------------33
-# Gr·ficos-----------------------------------------------------------------------------------------
-# PolÌgono-----------------------------------------------------------------------------------------34
+# √Ångulos-----------------------------------------------------------------------------------------33
+# Gr√°ficos-----------------------------------------------------------------------------------------
+# Pol√≠gono-----------------------------------------------------------------------------------------34
 #gato-----------------------------------------------------------------------------------------35
 # Gatos-----------------------------------------------------------------------------------------36
 # Espiral-----------------------------------------------------------------------------------------37
@@ -97,7 +56,7 @@ CÛdigos
 
 
 # Tortugas en x----------------------------------------------------------------------------------38
-# CÌrculos -----------------------------------------------------------------------------------------39
+# C√≠rculos -----------------------------------------------------------------------------------------39
 # Cuadros -----------------------------------------------------------------------------------------40
 # senoidal -----------------------------------------------------------------------------------------41
 # Circulo con cuadros --------------------------------------------------------------------------42
@@ -120,14 +79,14 @@ CÛdigos
 
 
 # python anaconda
-# øQue es python?
-python es un Lenguaje de programaciÛn de propÛsito general, orientado a objetos, que tambiÈn puede utilizarse para el desarrollo web. En python hay diferentes tipos de programas como spyder,anaconda prompt los cuales se puedes usar para el lenguaje de programaciÛn python .
-CÛdigos:
+# ¬øQue es python?
+python es un Lenguaje de programaci√≥n de prop√≥sito general, orientado a objetos, que tambi√©n puede utilizarse para el desarrollo web. En python hay diferentes tipos de programas como spyder,anaconda prompt los cuales se puedes usar para el lenguaje de programaci√≥n python .
+C√≥digos:
 
 
-. CÛdigo 1# Hola mundo
-En este cÛdigo el sistema le preguntara al usuario que inserte su nombre y el sistema le va a imprimir un saludo al usuario.
-CÛdigo                                                                                                                   
+. C√≥digo 1# Hola mundo
+En este c√≥digo el sistema le preguntara al usuario que inserte su nombre y el sistema le va a imprimir un saludo al usuario.
+C√≥digo                                                                                                                   
 
 
   
@@ -138,8 +97,8 @@ CÛdigo
 
 
 
-Codigo2  # ·rea de una habitaciÛn
-En este cÛdigo el equipo le va pregunta al usuario que inserte el ancho y el largo de la habitaciÛn y el equipo va a imprimir el ·rea de la habitaciÛn. 
+Codigo2  # √°rea de una habitaci√≥n
+En este c√≥digo el equipo le va pregunta al usuario que inserte el ancho y el largo de la habitaci√≥n y el equipo va a imprimir el √°rea de la habitaci√≥n. 
 
 
 largo = float(input('insertar el largo de la habitacion: '))
@@ -149,8 +108,8 @@ print('el area de tu habitacion es' ,area, 'metros cuadrados')
  
 
 
-CÛdigo 3: # ·rea de la cancha en acres.
-En este cÛdigo el equipo le va a preguntar al usuario que inserte el ancho y el largo de la cancha y el equipo va a imprimir el ·rea de la cancha en acres.
+C√≥digo 3: # √°rea de la cancha en acres.
+En este c√≥digo el equipo le va a preguntar al usuario que inserte el ancho y el largo de la cancha y el equipo va a imprimir el √°rea de la cancha en acres.
 
  
 # -*- coding: utf-8 -*-
@@ -167,8 +126,8 @@ print('el area del campo de futbol es' , area3, 'en acres')
 
 
   
- CÛdigo 4: # precio de botellas 
- En este cÛdigo en equipo le va a preguntar al usuario que inserte botellas de a 1 litro y que inserte botellas de m·s de un litro  y el equipo va imprimir el precio por botella y cu·nto dinero es el que se le va dar al cliente.
+ C√≥digo 4: # precio de botellas 
+ En este c√≥digo en equipo le va a preguntar al usuario que inserte botellas de a 1 litro y que inserte botellas de m√°s de un litro  y el equipo va imprimir el precio por botella y cu√°nto dinero es el que se le va dar al cliente.
 
  botella1=int(input('cuantas botellas de 1 litro o menos traes: '))
 botella2=float(input('cuantas botellas de 1 litro o mas traes: '))
@@ -182,8 +141,8 @@ precio= precio1 + precio2
 print('el precio total es' ,precio,'pesos')
 
 
-CÛdigo 5: # conversiÛn de unidades mexicanas
-en este cÛdigo en equipo realizara una conversiÛn de n˙meros PNG a kilÛmetros el usuario tiene que ingresar los n˙meros PGN y el equipo va realizar la conversiÛn a kilÛmetros.
+C√≥digo 5: # conversi√≥n de unidades mexicanas
+en este c√≥digo en equipo realizara una conversi√≥n de n√∫meros PNG a kil√≥metros el usuario tiene que ingresar los n√∫meros PGN y el equipo va realizar la conversi√≥n a kil√≥metros.
 
  
 milla=float(input('ingresa el numero de MPG:'))
@@ -192,8 +151,8 @@ print('la conversion a unidades mexicanas es:',conversion,'L/100km')
 
 
 
-CÛdigo 6:# direcciÛn  
-En este cÛdigo se har· un destinatario de una carta para que llegue a su domicilio 
+C√≥digo 6:# direcci√≥n  
+En este c√≥digo se har√° un destinatario de una carta para que llegue a su domicilio 
 
 # Ejercicio 6. Direccion de correo
 # Alumno: jesus morales
@@ -214,8 +173,8 @@ print(estado)\n
 print(codigo_postal)\n
 
  
-CÛdigo 7: # n˙meros enteros
-En este cÛdigo el equipo va desplegar dos mensajes uno que va decir que ingrese un numero entero y el otro que inserte otro n˙mero entero y el equipo  va a imprimir multiplicaciÛn,resta,divisiÛn,modulo,exponente,etc
+C√≥digo 7: # n√∫meros enteros
+En este c√≥digo el equipo va desplegar dos mensajes uno que va decir que ingrese un numero entero y el otro que inserte otro n√∫mero entero y el equipo  va a imprimir multiplicaci√≥n,resta,divisi√≥n,modulo,exponente,etc
 
  a=int(input('Ingrese un numero entero'))
 b=int(input('Ingrese un segundo numero entero'))
@@ -236,8 +195,8 @@ print('El resultado de elevar a por b:',exponente,)
 print('el logaritmo de 10 de a es:',math.log(a))
 
 
-CÛdigo 8: # restaurante 
-En este cÛdigo en equipo va desplegar un mensaje que el cliente va a  insertar el precio de la comida y el equipo va realizar un cobro donde le va decir al cliente  cuanto debe de pagar con todo y propina.  
+C√≥digo 8: # restaurante 
+En este c√≥digo en equipo va desplegar un mensaje que el cliente va a  insertar el precio de la comida y el equipo va realizar un cobro donde le va decir al cliente  cuanto debe de pagar con todo y propina.  
 
 
 restaurante = "HUSH"
@@ -254,8 +213,8 @@ print(propina)
 print('$' , r , 'MXN' )
  
 
-CÛdigo 9: # despliegue de n˙meros enteros
-En este cÛdigo en equipo va desplegar un mensaje que el usuario debe de insertar un numero entero y positivo donde en equipo va a imprimir la suma de los n˙meros y te dir· que suma es.
+C√≥digo 9: # despliegue de n√∫meros enteros
+En este c√≥digo en equipo va desplegar un mensaje que el usuario debe de insertar un numero entero y positivo donde en equipo va a imprimir la suma de los n√∫meros y te dir√° que suma es.
 
  print('DESPLIEGUE DE SUMA DE NUMEROS ENTEROS')
 numero = float(input('inserte un numero entero y positivo: '))
@@ -293,8 +252,8 @@ print('la suma de numeros es' ,suma10,)
 
 
 
-CÛdigo 10: # widgates 
-En este cÛdigo el equipo va desplegar un mensaje que dice cu·ntos gizmos llevas y el equipo va calcular cu·ntos productos llevas y los va a calcular por su precio y el equipo va desplegar un mensaje diciÈndote cuanto debes de los productos seleccionados.
+C√≥digo 10: # widgates 
+En este c√≥digo el equipo va desplegar un mensaje que dice cu√°ntos gizmos llevas y el equipo va calcular cu√°ntos productos llevas y los va a calcular por su precio y el equipo va desplegar un mensaje dici√©ndote cuanto debes de los productos seleccionados.
 
  widgate1=int(input('cuantos widgates llevas: '))
 gizmo1=float(input('cuantos gizmos llevas: '))
@@ -307,8 +266,8 @@ print('el peso de tus gizmos es de ' ,peso2,'gramos')
 peso= peso1 + peso2
 print('el peso total de tu pedido es' ,peso,'gramos')
 
-CÛdigo 11: # gasolina 
-En este cÛdigo en equipo va desplegar un mensaje diciendo que el cliente inserte la cantidad de eficiencia de gasolina y en equipo va a imprimir la eficiencia en 100km para cuantos kilÛmetros le alcanza. 
+C√≥digo 11: # gasolina 
+En este c√≥digo en equipo va desplegar un mensaje diciendo que el cliente inserte la cantidad de eficiencia de gasolina y en equipo va a imprimir la eficiencia en 100km para cuantos kil√≥metros le alcanza. 
 
 
 numero=float(input('ingrese la cantidad de eficiencia de gasolina: '))
@@ -317,8 +276,8 @@ print('la eficiencia de gasolina en L/100km es: ',eficiencia,)
 
 
 
-CÛdigo 12: # ahorro 
-En este cÛdigo en equipo va desplegar un mensaje diciendo que ingrese la cantidad que quiere ahorrar y el equipo va realizar la evaluaciÛn de la cantidad que se ahorrÛ la persona.
+C√≥digo 12: # ahorro 
+En este c√≥digo en equipo va desplegar un mensaje diciendo que ingrese la cantidad que quiere ahorrar y el equipo va realizar la evaluaci√≥n de la cantidad que se ahorr√≥ la persona.
 
 print('Cuenta de ahorro')
 ahorro = float(input('ingrese la cantidad que se ahorra: '))
@@ -334,8 +293,8 @@ print('la cantidad que se ahorra es','$' ,total3, 'MXN')
 
 
 
-CÛdigo 13: # resultado de dÌas 
-En este cÛdigo en equipo va desplegar un mensaje diciÈndole al usuario que inserte n˙mero de horas, minutos y segundos que desea saber el usuario y el equipo va a imprimir  la hora y los segundos  que el usuario debe saber.
+C√≥digo 13: # resultado de d√≠as 
+En este c√≥digo en equipo va desplegar un mensaje dici√©ndole al usuario que inserte n√∫mero de horas, minutos y segundos que desea saber el usuario y el equipo va a imprimir  la hora y los segundos  que el usuario debe saber.
 
  
 dias=float(input('inserta el numero de dias: '))
@@ -359,8 +318,8 @@ print('tienes un total de' ,resultado5,'segundos')
 
 
 
-CÛdigo 14: # edad humano a edad perro
-En este cÛdigo el equipo va desplegar un mensaje donde te va pedir que insertes la edad que quisieras averiguar cÛmo edad perro y el equipo va desplegar en mensaje donde va decirte cuantos aÒos tienes de perro y va desplegar otro mensaje donde va decir que no se aceptan n˙meros negativos.
+C√≥digo 14: # edad humano a edad perro
+En este c√≥digo el equipo va desplegar un mensaje donde te va pedir que insertes la edad que quisieras averiguar c√≥mo edad perro y el equipo va desplegar en mensaje donde va decirte cuantos a√±os tienes de perro y va desplegar otro mensaje donde va decir que no se aceptan n√∫meros negativos.
 
 edad=float(input('introduce el numero de edad que quieres conocer en edad perro: '))
 e1= 2
@@ -376,8 +335,8 @@ elif edad < e2:
     print('lo siento no se permiten negativos , ingresalo de nuevo')
  
 
-CÛdigo 15: # n˙mero par e impar 
-En este en equipo le va a preguntar al usuario que inserte un n˙mero y el equipole va decir que el n˙mero es par e impar.
+C√≥digo 15: # n√∫mero par e impar 
+En este en equipo le va a preguntar al usuario que inserte un n√∫mero y el equipole va decir que el n√∫mero es par e impar.
 
 
  n = int(input('Inserta cualquier numero: '))
@@ -390,8 +349,8 @@ elif n%2 != 0:
 
 
 
-CÛdigo 16: #  import time 
-En este cÛdigo cuando el usuario lo ingrese en el lenguaje de programaciÛn python el equipo va a desplegar una impresiÛn  la fecha y ha hora del equipo.
+C√≥digo 16: #  import time 
+En este c√≥digo cuando el usuario lo ingrese en el lenguaje de programaci√≥n python el equipo va a desplegar una impresi√≥n  la fecha y ha hora del equipo.
 
 
  import time
@@ -402,13 +361,13 @@ print('la fecha actual es ',time.strftime("%d/%m/%y"))
 
 # import math 
 
-# øQuÈ es?
-Import math es una librerÌa de python la cual es para realizar multiplicaciones, rango, o un resultado que el usuario quiere realizar esta librerÌa facilita a un programador a realizar c·lculos matem·ticos en el lenguaje python.
+# ¬øQu√© es?
+Import math es una librer√≠a de python la cual es para realizar multiplicaciones, rango, o un resultado que el usuario quiere realizar esta librer√≠a facilita a un programador a realizar c√°lculos matem√°ticos en el lenguaje python.
 
 
 
-CÛdigo 17: # latitud de la tierra en kilÛmetros
-En este cÛdigo el equipo va desplegar un mensaje diciendo que inserte la latitud y va desplegar varios mensajes donde deber·s de insertar diferentes latitudes de la tierra y el equipo va realizar el conteo de cuanta latitud de la tierra en kilÛmetros.
+C√≥digo 17: # latitud de la tierra en kil√≥metros
+En este c√≥digo el equipo va desplegar un mensaje diciendo que inserte la latitud y va desplegar varios mensajes donde deber√°s de insertar diferentes latitudes de la tierra y el equipo va realizar el conteo de cuanta latitud de la tierra en kil√≥metros.
  
 
 from math import degrees,sin,cos,acos
@@ -421,8 +380,8 @@ distancia2=degrees(distancia)
 print('la distancia es',distancia2,'km')
 
 
-CÛdigo 18: # radio de la esfera.
-En este cÛdigo en equipo va a desplegar un mensaje donde te pregunte que insertes el radio  de la esfera y el equipo va realizar el c·lculo y va a imprimir el volumen de la esfera en centÌmetros cuadrados.
+C√≥digo 18: # radio de la esfera.
+En este c√≥digo en equipo va a desplegar un mensaje donde te pregunte que insertes el radio  de la esfera y el equipo va realizar el c√°lculo y va a imprimir el volumen de la esfera en cent√≠metros cuadrados.
 
 import math
 radio=float(input('ingresa el radio;'))
@@ -436,8 +395,8 @@ print('el volumen del circulo es:' ,volumen,'cm cubicos')
 
 
 
-CÛdigo 19: # posiciÛn de cuadro de ajedrez 
-En este cÛdigo el equipo va desplegar un mensaje que el usuario inserte una coordenada y que el equipo despliegue el color del cuadro de la posiciÛn que el usuario inserto.
+C√≥digo 19: # posici√≥n de cuadro de ajedrez 
+En este c√≥digo el equipo va desplegar un mensaje que el usuario inserte una coordenada y que el equipo despliegue el color del cuadro de la posici√≥n que el usuario inserto.
 
 x=input('ingresa la corderdenada en letra')
 y=int(input('ingresa la corderdenada 2 en numero'))
@@ -449,8 +408,8 @@ elif:
  
 
 
-CÛdigo 20: # estatura 
-En este cÛdigo el usuario va a insertar su estatura y el equipo va a imprimir la estatura en centÌmetros cuadrados.
+C√≥digo 20: # estatura 
+En este c√≥digo el usuario va a insertar su estatura y el equipo va a imprimir la estatura en cent√≠metros cuadrados.
 
  pies = 2.54 centimetros
 Pulgadas = 12 pulgadas
@@ -463,8 +422,8 @@ print('150 centimetros * 2.54 centimetros')
 
 
 
-CÛdigo 21: # metros equivalentes 
-En este cÛdigo el equipo va desplegar dos mensajes uno diciendo que inserte un numero de milla y el otro que inserte un numero de pulgadas y el equipo va imprimir un equivalente de metros obtenidos.
+C√≥digo 21: # metros equivalentes 
+En este c√≥digo el equipo va desplegar dos mensajes uno diciendo que inserte un numero de milla y el otro que inserte un numero de pulgadas y el equipo va imprimir un equivalente de metros obtenidos.
 
  print('obten elequivalente en metros de los siguientes datos')
 pies= float(input("inserta elnumero de millas: "))
@@ -473,8 +432,8 @@ metros= 0.3048 * pies + 0.0254 * pulgadas
 print('tienes un equivalente de' ,metros, 'metros')
 
 
-CÛdigo 22: # ·rea del triangulo 
-En cÛdigo el equipo va desplegar un mensaje diciendo que inserte el valor de b y otro mensaje diciÈndole que inserte el valor de h y ya que el usuario inserte los valores el equipo va realizar un c·lculo donde va realizar la suma para realizar el ·rea del tri·ngulo.
+C√≥digo 22: # √°rea del triangulo 
+En c√≥digo el equipo va desplegar un mensaje diciendo que inserte el valor de b y otro mensaje dici√©ndole que inserte el valor de h y ya que el usuario inserte los valores el equipo va realizar un c√°lculo donde va realizar la suma para realizar el √°rea del tri√°ngulo.
 
  print('calcular el area de un triangulo usando b y h')
 longitud=float(input('inserta cuando medira b: '))
@@ -486,8 +445,8 @@ print('el area del triangulo es' ,area, 'centimetros cuadrados')
 
 
 
-CÛdigo 22: # distancia recorrida 
-En este cÛdigo el equipo va desplegar un mensaje diciendo que inserte la distancia recorrida en kilÛmetros de un taxi y el equipo  va realizar un c·lculo donde de dir· al usuario cuanto es lo que debe por los kilÛmetros recorridos.
+C√≥digo 22: # distancia recorrida 
+En este c√≥digo el equipo va desplegar un mensaje diciendo que inserte la distancia recorrida en kil√≥metros de un taxi y el equipo  va realizar un c√°lculo donde de dir√° al usuario cuanto es lo que debe por los kil√≥metros recorridos.
 
  ilo=input('ingrese la distancia recorrida en kilometros:')
 def tarifa(ilos):
@@ -496,8 +455,8 @@ def tarifa(ilos):
 print(resultado)
 
 
-CÛdigo 23: # descuento
-En este cÛdigo el equipo va desplegar un descuento ingresado en el codigo y va a imprimir cuanto fue el descuento.
+C√≥digo 23: # descuento
+En este c√≥digo el equipo va desplegar un descuento ingresado en el codigo y va a imprimir cuanto fue el descuento.
 
 for precio in range (4,5,199):
     descuento= precio * 60 /100 + 0.95
@@ -505,16 +464,16 @@ for precio in range (4,5,199):
     
 
  
-CÛdigo 24: # suma 
-En este cÛdigo el equipo va realizar un mensaje diciÈndole al usuario que inserte una suma que quiera realizar y equipo le va decir cu·nto es el resultado de su suma.
+C√≥digo 24: # suma 
+En este c√≥digo el equipo va realizar un mensaje dici√©ndole al usuario que inserte una suma que quiera realizar y equipo le va decir cu√°nto es el resultado de su suma.
 
  numero=int(input('ingresa un numero:'))
 suma=(numero*(numero+1))/2
 print(suma)
 
 
-CÛdigo 25: #  grafica 
-En este cÛdigo el equipo y va mostrar al usuario un mensaje diciÈndole que seleccione una opciÛn de una gr·fica seleccionada y el equipo va desplegar una gr·fica requerida.
+C√≥digo 25: #  grafica 
+En este c√≥digo el equipo y va mostrar al usuario un mensaje dici√©ndole que seleccione una opci√≥n de una gr√°fica seleccionada y el equipo va desplegar una gr√°fica requerida.
  
 import numpy as np
 import matplotlib.pyplot as plt
@@ -533,8 +492,8 @@ plt.show()
 
 
 
-CÛdigo 26: # password 
-En este cÛdigo el equipo va desplegar un mensaje diciÈndole al usuario que inserte un nuevo password y despuÈs llenara de nuevo su nuevo password y el equipo va enviar un mensaje al usuario de que su password ha sido establecido o si se equivoca de contraseÒa le saldr· un mensaje diciendo que es incorrecto y por ultimo gracias.  
+C√≥digo 26: # password 
+En este c√≥digo el equipo va desplegar un mensaje dici√©ndole al usuario que inserte un nuevo password y despu√©s llenara de nuevo su nuevo password y el equipo va enviar un mensaje al usuario de que su password ha sido establecido o si se equivoca de contrase√±a le saldr√° un mensaje diciendo que es incorrecto y por ultimo gracias.  
  
 password_user1 =  input('Inserte un  nuevo password: ')
 password_user2 =  input('Confirme su password: ')
@@ -545,8 +504,8 @@ else:
     print('Lo sienti, ha introducido mal los datos')
 print('Gracias!')
 
-CÛdigo 27:# C·lculo del Ìndice de masa corporal
-En este cÛdigo el equipo va desplegar un mensaje diciÈndole al usuario que inserte  su peso en kilogramos y su altura y el equipo le va decir al usuario si est· muy bien de salud o tiene obesidad nivel alto o esta desnutrido.
+C√≥digo 27:# C√°lculo del √≠ndice de masa corporal
+En este c√≥digo el equipo va desplegar un mensaje dici√©ndole al usuario que inserte  su peso en kilogramos y su altura y el equipo le va decir al usuario si est√° muy bien de salud o tiene obesidad nivel alto o esta desnutrido.
 
  # Calculo del indice de masa corporal
 
@@ -575,8 +534,8 @@ print('Gracias!')
 
 
 
-CÛdigo 28: # signo zodiacal 
-En este cÛdigo el equipo va desplegar un mensaje que ingrese el dÌa y el mes de cuando naciÛ y el equipo va a desplegarte que signo zodiacal eres por tu mes de nacimiento.
+C√≥digo 28: # signo zodiacal 
+En este c√≥digo el equipo va desplegar un mensaje que ingrese el d√≠a y el mes de cuando naci√≥ y el equipo va a desplegarte que signo zodiacal eres por tu mes de nacimiento.
 
 dia = int (input ('Ingresa el dia en que naciste: '))
 mes = int (input ('Ingresa el mes en que naciste: '))
@@ -609,17 +568,17 @@ print ()
 
 
  
-CÛdigo 30: # grados 
-En este cÛdigo el equipo va desplegar un mensaje diciÈndole al usuario que ingrese la temperatura en grados Celsius y el equipo los va a convertir a grados farenheit.
+C√≥digo 30: # grados 
+En este c√≥digo el equipo va desplegar un mensaje dici√©ndole al usuario que ingrese la temperatura en grados Celsius y el equipo los va a convertir a grados farenheit.
 
  
 
- # Ejercicios librerÌa class
-Class es una librerÌa donde puedes crear una clase con un def la cual se puede ocupar para conversiÛn o para realizar canciones que el equipo se la escriba al usuario.
+ # Ejercicios librer√≠a class
+Class es una librer√≠a donde puedes crear una clase con un def la cual se puede ocupar para conversi√≥n o para realizar canciones que el equipo se la escriba al usuario.
 
 
-CÛdigo 31: # maÒanitas 
-En este cÛdigo el equipo va desplegar las maÒanitas cuando se ejecute el cÛdigo en el lenguaje python 
+C√≥digo 31: # ma√±anitas 
+En este c√≥digo el equipo va desplegar las ma√±anitas cuando se ejecute el c√≥digo en el lenguaje python 
 
  class cancion(object):
     def _init_(self,letra):
@@ -627,12 +586,12 @@ En este cÛdigo el equipo va desplegar las maÒanitas cuando se ejecute el cÛdigo 
 
     def feliz_cumple(self):
         if self.letra:
-            print('estas son lasmaÒanitas que cantaba el rey david, hoy por ser dia de tu santo de las cantamos a aqui')
+            print('estas son lasma√±anitas que cantaba el rey david, hoy por ser dia de tu santo de las cantamos a aqui')
         
 
 
-CÛdigo 32: #  gasolina 
-En este cÛdigo el equipo va realizar el llenado de las bombas de gasolina en usuario inserta el monto que desea llenar asu carro y el equipo va ir contando cuantos litros se le deben de dar al usuario.
+C√≥digo 32: #  gasolina 
+En este c√≥digo el equipo va realizar el llenado de las bombas de gasolina en usuario inserta el monto que desea llenar asu carro y el equipo va ir contando cuantos litros se le deben de dar al usuario.
 
 class Coche(object):
    def __init__(self,gasolina):
@@ -661,8 +620,8 @@ vocho.conducir()
  
 
 
-CÛdigo 33: # ·ngulos
-En este cÛdigo en equipo va mostrar opciones de los ·ngulos y el usuario va seleccionar uno y el equipo ya a imprimir si es verdadero o falso. 
+C√≥digo 33: # √°ngulos
+En este c√≥digo en equipo va mostrar opciones de los √°ngulos y el usuario va seleccionar uno y el equipo ya a imprimir si es verdadero o falso. 
 
  class triangulo:
     def __init__(self,triangulo1,triangulo2,triangulo3):
@@ -679,15 +638,15 @@ mitriangulo = triangulo(90,30,60)
 mitriangulo.checar_angulos()
 
 
-# Gr·ficos 
+# Gr√°ficos 
 Import turtle 
-Import turtle es una librerÌa de python que se pueden realizar diferentes graficos como onda con im·genes, etc.estos programas van a desplegar una imagen en movimiento, Unos de los motivos que inspiraron el desarrollo de Python fue contar con una herramienta que uniera la posibilidad de realizar c·lculos avanzados con la obtenciÛn de representaciones gr·ficas de los propios datos que facilitaran su an·lisis con la librerÌa turtle.
+Import turtle es una librer√≠a de python que se pueden realizar diferentes graficos como onda con im√°genes, etc.estos programas van a desplegar una imagen en movimiento, Unos de los motivos que inspiraron el desarrollo de Python fue contar con una herramienta que uniera la posibilidad de realizar c√°lculos avanzados con la obtenci√≥n de representaciones gr√°ficas de los propios datos que facilitaran su an√°lisis con la librer√≠a turtle.
 
  
 # Import turtle 
 
-CÛdigo 34:# polÌgono 
-Con este cÛdigo el usuario va a ejecutar el cÛdigo y el equipo va realizar un polÌgono 
+C√≥digo 34:# pol√≠gono 
+Con este c√≥digo el usuario va a ejecutar el c√≥digo y el equipo va realizar un pol√≠gono 
 
 import turtle
 
@@ -707,8 +666,8 @@ ventana.mainloop
  
 
  
-CÛdigo 35 # gato
-En este cÛdigo la imagen pasara el posiciÛn x hasta la posiciÛn deseada.
+C√≥digo 35 # gato
+En este c√≥digo la imagen pasara el posici√≥n x hasta la posici√≥n deseada.
  
 import turtle
 
@@ -748,8 +707,8 @@ window.mainloop()
 
 
 
-CÛdigo 36: # gatos
-En este grafico la imagen avanzara y cuando llegue a la posiciÛn indicada de va a regresar y asÌ secativamente hasta que el usuario guste.
+C√≥digo 36: # gatos
+En este grafico la imagen avanzara y cuando llegue a la posici√≥n indicada de va a regresar y as√≠ secativamente hasta que el usuario guste.
  
 import turtle
 
@@ -788,8 +747,8 @@ window.mainloop()
 
 
 
-CÛdigo 37: # espiral 
-En este cÛdigo en equipo va realizar un espiral en forma de cuadro en cual se muestra continuaciÛn
+C√≥digo 37: # espiral 
+En este c√≥digo en equipo va realizar un espiral en forma de cuadro en cual se muestra continuaci√≥n
  
  
 import turtle
@@ -803,8 +762,8 @@ t=turtle.Turtle()
 
 
 
-CÛdigo 38: # tortugas en x
-En este grafico las tortugas se va a mover en forma de un asterisco como se ve a continuaciÛn 
+C√≥digo 38: # tortugas en x
+En este grafico las tortugas se va a mover en forma de un asterisco como se ve a continuaci√≥n 
  
  mport turtle
 import time
@@ -871,8 +830,8 @@ def draw_dancers(turtles, phase, screen, loops, flip, radius):
 
 
 
-CÛdigo 39: # cÌrculos 
-En este grafico dos tortugas realizaran dos cÌrculos uno de 50 y el otro de 100 como se muestra.
+C√≥digo 39: # c√≠rculos 
+En este grafico dos tortugas realizaran dos c√≠rculos uno de 50 y el otro de 100 como se muestra.
  
 
  print('Escribe uno de los siguiente colores:blue,lightgreen,azure1,azure2,bisque3,brown,aquamarine1,aliceblue,white')
@@ -901,8 +860,8 @@ ventana.mainloop()
 
      
     
-CÛdigo 40: # cuadros 
-En esto cÛdigo se realizaran cuadros hacia la posiciÛn x dependiendo del los cuadros que el usuario guste.
+C√≥digo 40: # cuadros 
+En esto c√≥digo se realizaran cuadros hacia la posici√≥n x dependiendo del los cuadros que el usuario guste.
  
 
  import turtle
@@ -936,8 +895,8 @@ ventana.mainloop()
 
 
 
-CÛdigo 41: # senoidal
-En este grafico el equipo mover· la imagen en forma de onda de arriba para abjao
+C√≥digo 41: # senoidal
+En este grafico el equipo mover√° la imagen en forma de onda de arriba para abjao
  
  p1, = plot(sin(x))       
 
@@ -954,7 +913,7 @@ title('Funcion 1')
 
 
 
-CÛdigo 42 #  circulo con cuadros.
+C√≥digo 42 #  circulo con cuadros.
 En este grafico el equipo va ir realizando cuadros y formando un circulo de 90 grados
  
 
@@ -988,7 +947,7 @@ wn.mainloop()
 
 
 
-CÛdigo 43 # cuadros
+C√≥digo 43 # cuadros
 en este grafico una tortuga va ir realizando cuadros tras cuadros y se va parar cuando termine de contar los cuadros que el usuario inserto.
  
 import turtle
@@ -1021,8 +980,8 @@ draw_art()
 
 
 
-CÛdigo 44  # arco
-En este grafico se va realizar un arco formado por cuadros como se muestra a continuaciÛn
+C√≥digo 44  # arco
+En este grafico se va realizar un arco formado por cuadros como se muestra a continuaci√≥n
 
 import turtle
 import math
@@ -1061,3 +1020,15 @@ while True:
 
 window.mainloop()
  
+
+
+
+
+
+
+
+
+
+
+
+
